@@ -1,7 +1,7 @@
 #!/bin/bash
 
-password_file="/home/kali/htb/escape/strings.txt"
-server="10.10.11.202"
+password_file="/usr/share/wordlists/rockyou.txt"
+server="<IP>"
 share="C$"
 success=false
 
